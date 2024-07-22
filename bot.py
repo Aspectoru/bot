@@ -110,3 +110,5 @@ async def tanya_sampah(ctx):
 
     else:
         await ctx.send('Di sistem gweh blom ada sampah gituan, mungkin ga kepikiran karena ga relevan, persis sama cintamu sama dirinya, ga diperhatikan.') 
+
+bot.run('')
